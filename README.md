@@ -1,5 +1,5 @@
-```js
-👋🏻 Hi, I’m a futur Developer Web, my name is Ugo
+```html
+👋🏻 Hi, I’m a futur Developer Web, my name is <B>Ugo<B>
 ```
 
 '''## 🌱 I’m currently learning :
