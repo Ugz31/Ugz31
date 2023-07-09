@@ -2,14 +2,15 @@
 👋🏻 Hi, I’m a futur Developer Web, my name is {bold(Ugo)}
 ```
 
-'''## 🌱 I’m currently learning :
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)'''
+``` 🌱 I’m currently learning : ```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-'''## ✅ I am operational on :'''
+```## ✅ I am operational on :```
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
-'''## 📫 How to reach me :
-on ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) with my pseudo : **sat4455**'''
+```
+📫 How to reach me :
+on ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) with my pseudo : "sat4455" ```
 
 <!---
 Ugz31/Ugz31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
