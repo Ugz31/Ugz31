@@ -1,4 +1,4 @@
-```html
+```javascript
 👋🏻 Hi, I’m a futur Developer Web, my name is <B>Ugo<B>
 ```
 
