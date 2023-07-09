@@ -1,5 +1,5 @@
-'''js
-👋 Hi, I’m a futur Developer Web, my name is **Ugo**
+'''php
+Hi, I’m a futur Developer Web, my name is **Ugo**
 ''' 
 
 '''## 🌱 I’m currently learning :
