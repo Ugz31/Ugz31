@@ -15,7 +15,8 @@
 ```📫 How to reach me :```
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
-```=> "sat4455"```
+
+  ```Pseudo Discord : "sat4455"```
 
 <!---
 Ugz31/Ugz31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
