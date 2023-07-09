@@ -1,5 +1,5 @@
 ```javascript
-👋🏻 Hi, I’m a futur Developer Web, my name is <B>Ugo<B>
+👋🏻 Hi, I’m a futur Developer Web, my name is bold(Ugo)
 ```
 
 '''## 🌱 I’m currently learning :
