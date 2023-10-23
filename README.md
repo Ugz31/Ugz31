@@ -27,7 +27,7 @@
 ---------------------------------------------------------
 ```📫 How to reach me : (Click) ```
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:occelli.ugo0@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:occelli.ugo@gmail.com)
 
 <!---
 Ugz31/Ugz31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
